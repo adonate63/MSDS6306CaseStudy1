@@ -1,6 +1,6 @@
-#This is Case Study #1 for the MSDS 6306 Summer 2017 course:#
+## This is Case Study #1 for the MSDS 6306 Summer 2017 course:
 
-#Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US
+### Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US
 breweries. The datasets descriptions are as follows:
 
 Beers.csv:
@@ -19,8 +19,8 @@ City: City where the brewery is located.
 State: State where the brewery is located.
 Questions
 
-###The datasets have merged into one master dataset and detailed analysis has been accomplished on the data.###  
-###The following questions have been answered during the analysis and these can be found in the MSDSCaseStudy1.Rmd file.###
+### The datasets have merged into one master dataset and detailed analysis has been accomplished on the data.
+### The following questions have been answered during the analysis and these can be found in the MSDSCaseStudy1.Rmd file.
 
 1. How many breweries are present in each state?
 2. Report the number of NA's in each column.
@@ -31,7 +31,7 @@ Questions
 6. Determine whether or not a relationship exists between the bitterness of the beer and its alcohol content; 
     Draw a scatter plot and analyze.
     
-###The goal of the project:###
+### The goal of the project:
 
 a. Introduction to the project. The introduction should not start with For my project I.
 b. The introduction needs to be written as if you are presenting the work to someone who has given you the data 
@@ -46,6 +46,6 @@ e. Clear answers to the questions. Just the code to answer the questions is not 
 f. Conclusion to the project. Summarize your ndings from this exercise. The le must be
     readable in GitHub.
     
-###Deliverable: Markdown file uploaded to GitHub.###
+## Deliverable: Markdown file uploaded to GitHub.
 
-###Author/contributor: Andrew Donate###
+## Author/contributor: Andrew Donate
